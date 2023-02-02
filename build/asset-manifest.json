@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68faee18.css",
+    "main.js": "/static/js/main.0981d901.js",
+    "static/media/cancel.png": "/static/media/cancel.bcfa70265ffea6dec2f2.png",
+    "static/media/batman-signal.webp": "/static/media/batman-signal.d341c706dbf0d1ccf470.webp",
+    "index.html": "/index.html",
+    "main.68faee18.css.map": "/static/css/main.68faee18.css.map",
+    "main.0981d901.js.map": "/static/js/main.0981d901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68faee18.css",
+    "static/js/main.0981d901.js"
+  ]
+}
